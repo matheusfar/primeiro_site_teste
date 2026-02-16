@@ -1,2 +1,2 @@
 # primeiro_site_teste
-Site teste para um atividade da faculdade
+Site teste para uma atividade da faculdade
